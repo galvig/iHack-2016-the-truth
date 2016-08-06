@@ -1,10 +1,11 @@
+
 {
-    "name": "mean-stack-registration-login-example",
+    "name": "iHack - the iTruth",
     "version": "1.0.0",
-    "description": "MEAN Stack User Registration and Login Example Application",
+    "description": "The truth abuot Israel",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cornflourblue/mean-stack-registration-login-example.git"
+        "url": "https://github.com/galvig/iHack-2016-the-truth.git"
     },
     "dependencies": {
         "bcryptjs": "^2.1.0",
